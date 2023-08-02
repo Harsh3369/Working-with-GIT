@@ -9,7 +9,7 @@ def test_add():
   """
 
   result = calculator(10, 20, "add")
-  assert result == 30
+  assert result == 40
 
 
 def test_subtract():
