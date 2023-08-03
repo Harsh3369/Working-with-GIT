@@ -3,7 +3,7 @@ import pytest
 import calculator
 
 
-class calc_test():
+class test_calc():
   def test_add(self):
     """
     This test ensures that the calculator function correctly adds two numbers.
