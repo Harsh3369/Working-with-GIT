@@ -4,7 +4,7 @@ import calculator
 
 class calc_test():
    def test_add(self):
-     assert 6 == calculator.calc_add(3,3)
+     assert 6 == calculator.cal_add(3,3)
 
 # class calc_test():
 #   def test_add(self):
